@@ -5,6 +5,8 @@
 [![License](https://img.shields.io/cocoapods/l/RKColorSlider.svg?style=flat)](http://cocoadocs.org/docsets/RKColorSlider)
 [![Platform](https://img.shields.io/cocoapods/p/RKColorSlider.svg?style=flat)](http://cocoadocs.org/docsets/RKColorSlider)
 
+![](http://i.imgur.com/7Ymzivs.gif)
+
 ## Usage
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
