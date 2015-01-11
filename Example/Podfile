@@ -1,0 +1,11 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+target 'RKColorSlider', :exclusive => true do
+  pod "RKColorSlider", :path => "../"
+end
+
+target 'Tests', :exclusive => true do
+  pod "RKColorSlider", :path => "../"
+
+  
+end
