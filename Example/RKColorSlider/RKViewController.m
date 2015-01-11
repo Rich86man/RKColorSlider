@@ -7,8 +7,11 @@
 //
 
 #import "RKViewController.h"
+#import <RKColorSlider/RKColorSlider.h>
 
 @interface RKViewController ()
+
+@property (weak, nonatomic) IBOutlet UIView *testView;
 
 @end
 
@@ -26,4 +29,8 @@
     // Dispose of any resources that can be recreated.
 }
 
+- (IBAction)sliderDidChangeValue:(RKColorSlider *)sender
+{
+    self.testView.backgroundColor = sender.selectedColor;
+}
 @end

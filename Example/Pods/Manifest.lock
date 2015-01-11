@@ -1,0 +1,14 @@
+PODS:
+  - RKColorSlider (0.1.0)
+
+DEPENDENCIES:
+  - RKColorSlider (from `../`)
+
+EXTERNAL SOURCES:
+  RKColorSlider:
+    :path: ../
+
+SPEC CHECKSUMS:
+  RKColorSlider: 648e2d27b72e191baa6f98169ce6c19dabc28731
+
+COCOAPODS: 0.36.0.beta.1
